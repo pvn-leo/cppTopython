@@ -1,6 +1,4 @@
-#Pavan A
-#Rohan Kumar
-#Pratheek SB
+#king
 kf=1
 while(kf==1):
     finali=(input("enter the path of C++ input file:"))
